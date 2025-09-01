@@ -9,7 +9,6 @@ export default defineNuxtConfig({
   },
   css: ["~/assets/css/main.css"],
   modules: [
-    "@nuxt/content",
     "@nuxt/eslint",
     "@nuxt/fonts",
     "@nuxt/icon",
